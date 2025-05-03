@@ -1,5 +1,5 @@
 ## Hi, I'm <DIVYA PRAKASH BURNWAL>! 👋
-![](https://github-readme-stats.vercel.app/api?username=<divyaprakash765>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=divyaprakash765&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 🔭 I'm currently pursuing my Bachelor's at NIT JAMSHEDPUR
