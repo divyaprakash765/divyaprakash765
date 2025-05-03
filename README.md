@@ -14,7 +14,7 @@
   - Diving into PostgreSQL for efficient and scalable database management.
  
   ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,cpp,react,redux,express,git,github,mongodb,mysql,nodejs,sequelize)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,js,cpp,react,redux,express,git,github,mongodb,mysql,nodejs,sequelize)
 
 
 ![](https://leetcard.jacoblin.cool/dpb937?ext=heatmap)
