@@ -12,7 +12,7 @@
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
  
   ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,react,redux,express,git,github,mongodb,mysql,nodejs,sequelize)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,react,redux,express,git,github,mongodb,mysql,nodejs,sequelize,docker)
 
 
 ![](https://leetcard.jacoblin.cool/dpb937?ext=heatmap)
