@@ -3,13 +3,6 @@
 
 ## 🚀 About Me
 🔭 I'm currently pursuing my Bachelor's at NIT JAMSHEDPUR
-
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
  
   ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,react,redux,express,git,github,mongodb,mysql,nodejs,sequelize,docker)
