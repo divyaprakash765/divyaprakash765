@@ -5,7 +5,7 @@
 🔭 I'm currently pursuing my Bachelor's at NIT JAMSHEDPUR
  
   ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,react,redux,angular,nodejs,express,git,github,mongodb,mysql,sequelize)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,tailwind,react,redux,angular,nodejs,express,git,github,mongodb,mysql,sequelize)
 
 
 ![](https://leetcard.jacoblin.cool/dpb937?ext=heatmap)
